@@ -5,7 +5,7 @@
 - The project is to create a web app for simple visulations of Airbnb data about Oslo listing market.
 - Web app can be accessed here: https://udacity-dsnd-webapp-airbnb.herokuapp.com/
 
-## Details
+## Project components
 - data: Include two csv files that are retrieved from Inside Airbnb, that are used for visualization of Oslo listing market. 
 - myapp: Include index.html, which is a HTML file for front-end development
 - wrangling_scripts: Include wrangle_data.py, which is a Python code for data wrangling using pandas and plotly
